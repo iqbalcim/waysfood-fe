@@ -39,7 +39,7 @@ function NavBefore(props) {
             <Navbar.Brand href="/" onClick={handleHome}>
               <img
                 style={{ maxHeight: "50px" }}
-                src="https://www.5ways.com.au/Themes/BPDTHEME01/theme-client-updates/img/logos/logo-footer.png"
+                src="https://res.cloudinary.com/dyinfdy7y/image/upload/v1668791517/waysfood/Icon_ayjfrq.png"
                 alt=""
               />
             </Navbar.Brand>
