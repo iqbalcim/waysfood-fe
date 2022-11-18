@@ -122,7 +122,7 @@ function Home(props) {
                       <div className=' d-flex flex-column align-items-end justify-content-center h-100 w-100 '>
                           <div className='mb-4 w-100' style={{fontFamily:"Abhaya Libre ExtraBold"}}>
                               <h2 className='fs-1'>Are You Hungry?</h2>
-                              <h2 className='fs-1' >Makanlah Biar Kenyang</h2>
+                              <h2 className='fs-1' >Express Home Delivery</h2>
                           </div>
                           <div className='row w-100'>
                               <hr className='mt-2 col-md-5' style={{width:"35%", height:"2px",opacity:"100%",backgroundColor:"black" }} />
